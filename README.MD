@@ -12,8 +12,8 @@ Sbrayado
 
 
 # Links
-<a href="www.google.com">link a google</a>
+<a href="http://www.google.com">link a google</a>
 
-[google](www.google.com)
+[google](http://www.google.com)
 
 [al index](index.html)
